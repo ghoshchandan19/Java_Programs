@@ -12,6 +12,7 @@ public class Create_Array_List {
 		  list_Strings.add("Orange");
 		  list_Strings.add("White");
 		  list_Strings.add("Black");
+		  list_Strings.add("Blue");
 		  System.out.println(list_Strings);
 	}
 
