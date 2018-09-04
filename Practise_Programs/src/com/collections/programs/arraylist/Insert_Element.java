@@ -13,6 +13,7 @@ public class Insert_Element {
 		  list_Strings.add("White");
 		  list_Strings.add("Black");
 		  list_Strings.add("Blue");
+		  list_Strings.add("Black");
 		  
 		  //Before adding element
 		  System.out.println(list_Strings);
