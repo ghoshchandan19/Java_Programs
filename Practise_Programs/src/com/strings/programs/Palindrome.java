@@ -22,6 +22,7 @@ public class Palindrome
 	    	   System.out.println("String is not Palindrome");
 	    	   
 	       }
+	       
 	}
 
 }
