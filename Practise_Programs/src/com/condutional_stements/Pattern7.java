@@ -4,7 +4,7 @@
 12321 
 1234321 
 123454321 
- */
+*/
 package com.condutional_stements;
 
 public class Pattern7 {
