@@ -1,3 +1,5 @@
+//Print each word of the string and count of each word
+
 package com.strings.programs;
 
 public class Program1 {

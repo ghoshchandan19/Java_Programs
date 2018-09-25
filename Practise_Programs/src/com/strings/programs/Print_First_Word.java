@@ -16,7 +16,7 @@ public class Print_First_Word {
 	    	}
 
 	}
-	       System.out.println("First word in the string is "+B);
+	       System.out.println("First word in the string is :"+B);
 
    }
 }
