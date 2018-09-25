@@ -26,7 +26,7 @@ public class Shuffle_ArrayList {
 		  //Extracting a portion of the ArrayList
 		  List<String> sub_List = list_Strings.subList(0, 3);
 		  //ArrayList<String> sub_list=list_Strings.subList(0, 3);
-		  System.out.println(sub_List);
+		  System.out.println("First 3 elements "+sub_List);
 		  
 		
 	}
