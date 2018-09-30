@@ -1,12 +1,12 @@
-// wap to print each word of the sentence in reverse 
 package com.strings.programs;
 
-public class EachWordReverse {
+public class EachWordWithPosition {
 
 	public static void main(String[] args) {
 		String nm="He is a boy";
 		nm=nm+" ";
 		String B="";
+		int P=0;
 		
 		int length=nm.length();
 		for(int i=0;i<=length-1;i++)
@@ -15,17 +15,20 @@ public class EachWordReverse {
 			if(d!=' ')
 			{
 				
-				B=d+B;
+				B=B+d;
 			}
 			else
 			{
-			System.out.print(B+" ");
-			
+				P=P+1;
+				System.out.println(B+" with position "+P);
+				
 				B=" ";
 			}
-		
-
-          }
-		
+		}
 	}
 }
+			
+
+	
+
+
